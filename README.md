@@ -1,2 +1,2 @@
 # ML
-This is created for test.
+This repository is created for the learning purpose.
