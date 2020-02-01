@@ -1,5 +1,5 @@
 
 # This is a test 
 
-def funcname(parameter_list):
+def get(parameter_list):
     pass
